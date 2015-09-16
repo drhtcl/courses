@@ -1,5 +1,5 @@
 ---
-title       : Introduction to statistical inference
+title       : Introduction2to statistical inference
 subtitle    : Statistical inference
 author      : Brian Caffo, Jeff Leek, Roger Peng
 job         : Johns Hopkins Bloomberg School of Public Health
